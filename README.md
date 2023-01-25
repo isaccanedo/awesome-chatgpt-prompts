@@ -4,7 +4,7 @@
 
 Bem-vindo ao repositório "Awesome ChatGPT Prompts"! Esta é uma coleção de exemplos de prompt a serem usados com o modelo ChatGPT.
 
-The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
+O modelo [ChatGPT](https://chat.openai.com/chat) é um grande modelo de linguagem treinado por [OpenAI](https://openai.com) que é capaz de gerar texto semelhante ao humano. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
 Neste repositório, você encontrará uma variedade de prompts que podem ser usados com o ChatGPT. Incentivamos você a [adicionar seus próprios prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) à lista e usar o ChatGPT para gerar novos prompts também.
 
