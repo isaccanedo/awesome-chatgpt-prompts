@@ -8,7 +8,7 @@ O modelo [ChatGPT](https://chat.openai.com/chat) é um grande modelo de linguage
 
 Neste repositório, você encontrará uma variedade de prompts que podem ser usados com o ChatGPT. Incentivamos você a [adicionar seus próprios prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) à lista e usar o ChatGPT para gerar novos prompts também.
 
-To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
+Para começar, simplesmente clone este repositório e use os prompts no arquivo README.md como entrada para o ChatGPT. Você também pode usar os prompts deste arquivo como inspiração para criar o seu próprio.
 
 We hope you find these prompts useful and have fun using ChatGPT!
 
